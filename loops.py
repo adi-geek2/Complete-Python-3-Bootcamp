@@ -1,4 +1,4 @@
-# mylist = [1,2,3,4,5,6,7,8,9,10]
+#mylist = [1,2,3,4,5,6,7,8,9,10]
 # for num in mylist:
 #     if num % 2 == 0:
 #         print("Even number:" + str(num))
@@ -27,7 +27,7 @@ while x < 5:
         break
 else:
     print("X is not less than 5") 
-    
+
 my_string = 'Sammy'
 for letter in my_string:
     if letter == 'a':
